@@ -1,0 +1,7 @@
+/* Css sprite es una tecnica que nos permite cargar una sola imagen y mostrar solo la parte que necesitamos */
+
+.sprite {
+  background-image: url(../img/sprite.png);
+  background-repeat: no-repeat;
+  display: inline-block;
+}

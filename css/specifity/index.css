@@ -1,0 +1,11 @@
+/* Especifidad en Css es la forma en que se calcula que estilo se va a aplicar a un elemento */
+/* !important: tiene la mayor especifidad */
+/* Inline styles: tiene la segunda mayor especifidad */
+/* Id: tiene la tercera mayor especifidad */
+/* Clases: tiene la cuarta mayor especifidad */
+/* Etiquetas: tiene la quinta mayor especifidad */
+/* Universal selector: tiene la sexta mayor especifidad */
+/* Selectores de hermanos: tiene la septima mayor especifidad */
+/* Selectores de hijos: tiene la octava mayor especifidad */
+/* Selectores de padres: tiene la novena mayor especifidad */
+/* Selectores de atrubutos: tiene la decima mayor especifidad */
